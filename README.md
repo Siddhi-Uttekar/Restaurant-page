@@ -5,5 +5,3 @@ package.json: contains project info, dependency managment, scripts, versions for
 
 webpack.config.js: contains entry points, output, loaders, plugins, mode, devserver, etc to define how webpack should process and bundle the applications asests.
 
-
-webpack.config.js: contains entry points, output, loaders, plugins, mode, devserver, etc to define how webpack should process and bundle the applications asests.
